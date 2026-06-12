@@ -12,7 +12,7 @@ Novel Genesis is a single-file, local-first AI-powered novel writing companion t
  
 <h2> Features </h2>
 
-- <b>Models to Choose From:
+- <b>Choose From:
 - Open AI: GPT-5.5, GPT-5.4, GPT-5.4 mini (API key required).
 - Anthropic: Opus 4.8, Sonnet 4.6, Haiku 4.5 (API key required).
 - Elevenlabs voice generation (API key required).
