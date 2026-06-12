@@ -17,13 +17,13 @@ Novel Genesis is a single-file, local-first AI-powered novel writing companion t
 - Anthropic: Opus 4.8, Sonnet 4.6, Haiku 4.5 (API key required).
 - Elevenlabs voice generation (API key required).
 - Book Cover Generator using Nano Bana 2 or GPT-image 2
-- Seperate writing sections (World Building, Charatcers, Outline, Scene Builder) have two modes to choose from: Either add in a section yourself or use the AI assistant to generate ideas.
+- Seperate writing sections (World Building, Characters, Outline, Scene Builder) have two modes to choose from: Either add in a section yourself or use the AI assistant to generate ideas.
 - Story Editor for writing yourself. Export as PDF, ePub, JSON or docx.
 - Prompt Template library that you can use including editing prompts
 - Story Idea Generator where you can use AI to help generate ideas for stories
 - Porfolio section for saving projects, book covers generated and story ideas generated from the story generator
 - 6 Different Themes (3 Light and 3 Dark)
-- Blurg Generator where you can generate copy for the back cover
+- Blurb Generator where you can generate copy for the back cover
 - Style Analyzer for analyzing your writing style  
 
 
