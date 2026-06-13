@@ -45,23 +45,34 @@ Main Dashboard
  <br />
 
 
+API Settings
+<br>
+<br/>
 <img width="1910" height="916" alt="NG-APISettings" src="https://github.com/user-attachments/assets/b2e1c777-ba9d-46a6-b994-4fab5bce10f5" />
 
 <br />
 <br />
-API Settings 
 
+Narrative Section
 <br />
 <br />
-
 <img width="1918" height="909" alt="NG-Narrative" src="https://github.com/user-attachments/assets/113e797a-7d53-43e9-82f4-015dfb335059" />
 
 <br />
 <br />
-Narrative Section 
 
+Outline
 <br />
 <br />
+<img width="1920" height="909" alt="NG-outline" src="https://github.com/user-attachments/assets/2c542c1c-0881-4b7f-bffd-a89ed76ea5e9" />
+<br />
+<br />
+<img width="1920" height="909" alt="NG-outline-2" src="https://github.com/user-attachments/assets/90cf8541-05a6-446e-8fcd-dbfbd3817457" />
+<br />
+<br />
+<img width="1912" height="925" alt="NG-outline-3" src="https://github.com/user-attachments/assets/a64f3ca5-7fa8-4781-957c-00db3b94054f" />
+
+
 
 
 
