@@ -196,6 +196,16 @@ Style Analyzer
 <br />
 <br />
 
+Help and About
+<br />
+<br />
+<img width="1901" height="821" alt="NG-HelpandAbout" src="https://github.com/user-attachments/assets/24d1d4e8-5662-44cb-8e1a-eaaa1486a898" />
+<br />
+<br />
+<img width="1904" height="917" alt="NG-HelpandAbout-2" src="https://github.com/user-attachments/assets/2b003324-c2ee-49f0-812c-52ce0b74c231" />
+
+<br />
+<br />
 
 
 <h2>Themes<h2/> 
