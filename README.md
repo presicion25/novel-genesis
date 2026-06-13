@@ -21,6 +21,7 @@ Models to Choose from for AI assisted generation:
  <h2> More Features</h2>
  
 - Book Cover Generator using Nano Bana 2 or GPT-image 2
+- Narrative Planning Section including Story Structure, Acts and Story Beats, Themes, Subplots, Conflicts all with dropdowns that have examples. Generate up to 10 ideas at a time.
 - Seperate writing sections (World Building, Characters, Outline, Scene Builder) have two modes to choose from: Either add in a section yourself or use the AI assistant to generate ideas.
 - Story Editor for writing yourself. Export as PDF, ePub, JSON or docx.
 - Prompt Template library that you can use including editing prompts
@@ -28,7 +29,8 @@ Models to Choose from for AI assisted generation:
 - Porfolio section for saving projects, book covers generated and story ideas generated from the story generator
 - 6 Different Themes (3 Light and 3 Dark)
 - Blurb Generator where you can generate copy for the back cover
-- Style Analyzer for analyzing your writing style  
+- Style Analyzer for analyzing your writing style
+- Help and About Section
 
 
  <br />
@@ -39,5 +41,129 @@ Models to Choose from for AI assisted generation:
  <br />
  <br />
 Main Dashboard
+
+<br />
+<br />
+
+<img width="1910" height="916" alt="NG-APISettings" src="https://github.com/user-attachments/assets/b2e1c777-ba9d-46a6-b994-4fab5bce10f5" />
+
+<br />
+<br />
+API Settings 
+
+<br />
+<br />
+
+<img width="1918" height="909" alt="NG-Narrative" src="https://github.com/user-attachments/assets/113e797a-7d53-43e9-82f4-015dfb335059" />
+
+<br />
+<br />
+Narrative Section 
+
+<br />
+<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
 
 
