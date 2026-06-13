@@ -44,10 +44,19 @@ Main Dashboard
  <br />
  <br />
 
+ World Building 
+<br />
+<br />
+
+<img width="1900" height="916" alt="NG-WorldBuilding" src="https://github.com/user-attachments/assets/4841f684-7e65-4cd2-b767-ce19b643b2ca" />
+
+<br />
+<br />
 
 API Settings
 <br>
 <br/>
+
 <img width="1910" height="916" alt="NG-APISettings" src="https://github.com/user-attachments/assets/b2e1c777-ba9d-46a6-b994-4fab5bce10f5" />
 
 <br />
@@ -56,6 +65,7 @@ API Settings
 Narrative Section
 <br />
 <br />
+
 <img width="1918" height="909" alt="NG-Narrative" src="https://github.com/user-attachments/assets/113e797a-7d53-43e9-82f4-015dfb335059" />
 
 <br />
@@ -64,6 +74,7 @@ Narrative Section
 Outline
 <br />
 <br />
+
 <img width="1920" height="909" alt="NG-outline" src="https://github.com/user-attachments/assets/2c542c1c-0881-4b7f-bffd-a89ed76ea5e9" />
 <br />
 <br />
@@ -71,6 +82,211 @@ Outline
 <br />
 <br />
 <img width="1912" height="925" alt="NG-outline-3" src="https://github.com/user-attachments/assets/a64f3ca5-7fa8-4781-957c-00db3b94054f" />
+
+<br />
+<br />
+
+Scene Builder
+<br />
+<br />
+
+<img width="1916" height="913" alt="NG-Scene" src="https://github.com/user-attachments/assets/211eedc1-1059-435f-bdab-906320499f28" />
+
+<br />
+<br />
+
+Story Editor
+<br />
+<br />
+
+<img width="1915" height="918" alt="NG-Story Editor" src="https://github.com/user-attachments/assets/d00a4b05-fe9b-407e-8799-765efb06a1e4" />
+<br />
+<br />
+<img width="1915" height="918" alt="NG-Story Editor 2" src="https://github.com/user-attachments/assets/4d5303d7-dd54-461a-a8ed-feca43326ac8" />
+<br />
+<br />
+<img width="1916" height="910" alt="NG-Story Editor 3" src="https://github.com/user-attachments/assets/cccea8d1-3512-4e15-b316-aa947c95d11e" />
+
+<br />
+<br />
+
+AI Assistant
+<br />
+<br />
+
+<img width="1897" height="922" alt="NG-AI Writing Assistant" src="https://github.com/user-attachments/assets/82bc1af4-652e-4519-bf36-c11fd5a89269" />
+
+<br />
+<br />
+
+Story Idea Generator
+<br />
+<br />
+
+<img width="1537" height="901" alt="NG-StoryGenerator-3" src="https://github.com/user-attachments/assets/031d2821-62ed-4c46-a3e6-8e7951426dfb" />
+<br />
+<br />
+<img width="1537" height="901" alt="NG-StoryGenerator-3" src="https://github.com/user-attachments/assets/f81e67fd-5c92-4008-984f-9a2370170571" />
+
+<br />
+<br />
+
+Prompt Templates 
+<br />
+<br />
+
+<img width="1895" height="921" alt="NG-PromptTemplates" src="https://github.com/user-attachments/assets/88d1fc1a-1996-429e-ad16-fad08a523846" />
+<br />
+<br />
+<img width="1888" height="920" alt="NG-PromptTemplates-2" src="https://github.com/user-attachments/assets/865be742-a50a-4894-8dd2-b4f176bf7732" />
+
+<br />
+<br />
+
+Book Cover Generator
+<br />
+<br />
+
+<img width="1906" height="921" alt="NG-photo_generator-1" src="https://github.com/user-attachments/assets/ddfd0056-58a7-438a-9f39-290f4e1e78de" />
+<br />
+<br />
+<img width="1901" height="911" alt="NG-photo_generator-2" src="https://github.com/user-attachments/assets/af8cbcfc-e501-47e9-9bdd-c0cb5371af25" />
+<br />
+<br />
+<img width="1897" height="916" alt="NG-photo_generator-NanoBanana" src="https://github.com/user-attachments/assets/4b8fd9b5-8a15-4b90-856f-cfa37f9b4583" />
+
+<br />
+<br />
+
+Portfolio
+<br />
+<br />
+
+<img width="1915" height="895" alt="NG-portfolio-1" src="https://github.com/user-attachments/assets/f1e11fa0-d3e8-4606-b44f-f02951db043a" />
+<br />
+<br />
+<img width="1918" height="926" alt="NG-Portfolio-AILibrary" src="https://github.com/user-attachments/assets/4f44342d-0dd8-4352-8d67-74f384652b26" />
+<br />
+<br />
+<img width="1918" height="926" alt="NG-Portfolio-AILibrary-1" src="https://github.com/user-attachments/assets/d919d326-58d9-4349-91a7-5da625a998fe" />
+
+<br />
+<br />
+
+
+Royalty Calculator
+<br />
+<br />
+
+<img width="1905" height="910" alt="NG-RoyaltyCalculator" src="https://github.com/user-attachments/assets/fc43845f-7b01-476a-b5d2-8b1727a9f135" />
+
+<br />
+<br />
+Blurb Generator
+<br />
+<br />
+
+<img width="1912" height="909" alt="NG-BlurbGenerator" src="https://github.com/user-attachments/assets/0008b4ef-857c-4b5d-b7c8-fb2150412e19" />
+
+<br />
+<br />
+
+Style Analyzer
+<br />
+<br />
+
+<img width="1910" height="909" alt="NG-StyleAnalyzer" src="https://github.com/user-attachments/assets/1aff4360-3b70-4824-b19d-4e6eaccb7745" />
+
+<br />
+<br />
+
+Settings 
+<br />
+<br />
+
+Themes 
+<br />
+<br />
+
+Classic Light
+<br />
+<br />
+<img width="1902" height="917" alt="NG-Theme-ClassicLight" src="https://github.com/user-attachments/assets/1c0582db-7e4c-4b42-97a8-f025203cd806" />
+
+<br />
+<br />
+
+Cyber Noir
+<br />
+<br />
+
+<img width="1897" height="913" alt="NG-Theme-CyberNoir" src="https://github.com/user-attachments/assets/465bf071-f30c-48de-8ed1-38207144dd9c" />
+
+<br />
+<br />
+
+Deep Space
+<br />
+<br />
+
+<img width="1901" height="917" alt="NG-Theme-DeepSapce" src="https://github.com/user-attachments/assets/e9cd26aa-1da9-4002-af51-1efb1710aa1c" />
+
+<br />
+<br />
+
+Midnight Dark
+<br />
+<br />
+
+<img width="1900" height="916" alt="NG-Theme-MidnightDark" src="https://github.com/user-attachments/assets/986142f1-dbe0-4943-b1e5-ac5957aed27c" />
+
+<br />
+<br />
+
+Paper White
+<br />
+<br />
+
+<img width="1901" height="916" alt="NG-Theme-PaperWhite" src="https://github.com/user-attachments/assets/be366642-b9e3-4744-9b50-d45b63f5c15c" />
+
+<br />
+<br />
+
+Soft Beige
+<br />
+<br />
+
+<img width="1902" height="920" alt="NG-Theme-SoftBeige" src="https://github.com/user-attachments/assets/bb0940ae-ce73-4234-8050-9657f186f47f" />
+
+<br />
+<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
