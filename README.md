@@ -5,9 +5,9 @@ Novel Genesis is a single-file, local-first AI-powered novel writing companion t
  <br />
  I built this as a test project recently when I first starting dabbling in Claude Code. It was built entirely with Sonnet 4.6 using Antigravty. For any AI assisted generation features, users must enter their own API keys. Everything runs locally in a browser.  
 
-<h2> Side Note: 
+<h2> Side Note:<h2/> 
  
-- I am working on a webapp version of this</h2>
+- I am working on a webapp version of this
 
  <br />
  <br />
