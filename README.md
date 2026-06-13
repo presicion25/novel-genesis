@@ -28,7 +28,8 @@ Models to Choose from for AI assisted generation:
 - Elevenlabs voice generation (API key required).
 
  <h2> More Features</h2>
- 
+
+- Browser TTS
 - Book Cover Generator using Nano Bana 2 or GPT-image 2
 - Narrative Planning Section including Story Structure, Acts and Story Beats, Themes, Subplots, Conflicts all with dropdowns that have examples. Generate up to 10 ideas at a time.
 - Seperate writing sections (World Building, Characters, Outline, Scene Builder) have two modes to choose from: Either add in a section yourself or use the AI assistant to generate ideas.
