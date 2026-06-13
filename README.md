@@ -18,8 +18,7 @@ I built this as a test project recently when I first starting dabbling in Claude
 
  <br />
  <br />
- 
-<h2> Features </h2>
+ <h2> Features </h2>
 
 Models to Choose from for AI assisted generation: 
 - Open AI (GPT-5.5, GPT-5.4, GPT-5.4 mini) (API key required).
