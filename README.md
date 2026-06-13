@@ -19,6 +19,7 @@ Models to Choose from for AI assisted generation:
 - Elevenlabs voice generation (API key required).
 
  <h2> More Features</h2>
+ 
 - Book Cover Generator using Nano Bana 2 or GPT-image 2
 - Seperate writing sections (World Building, Characters, Outline, Scene Builder) have two modes to choose from: Either add in a section yourself or use the AI assistant to generate ideas.
 - Story Editor for writing yourself. Export as PDF, ePub, JSON or docx.
