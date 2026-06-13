@@ -32,7 +32,10 @@ Models to Choose from for AI assisted generation:
 - Style Analyzer for analyzing your writing style
 - Help and About Section
 
+<br />
+<br />
 
+Main Dashboard
  <br />
  <br />
  
@@ -40,10 +43,7 @@ Models to Choose from for AI assisted generation:
 
  <br />
  <br />
-Main Dashboard
 
-<br />
-<br />
 
 <img width="1910" height="916" alt="NG-APISettings" src="https://github.com/user-attachments/assets/b2e1c777-ba9d-46a6-b994-4fab5bce10f5" />
 
