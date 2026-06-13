@@ -38,8 +38,7 @@ Models to Choose from for AI assisted generation:
 Main Dashboard
  <br />
  <br />
- 
-<img width="1914" height="912" alt="NG-DashBoard" src="https://github.com/user-attachments/assets/0bce188f-ea60-4cd6-806e-d1af1cc1d383" />
+ <img width="1914" height="912" alt="NG-DashBoard" src="https://github.com/user-attachments/assets/0bce188f-ea60-4cd6-806e-d1af1cc1d383" />
 
  <br />
  <br />
@@ -47,7 +46,6 @@ Main Dashboard
  World Building 
 <br />
 <br />
-
 <img width="1900" height="916" alt="NG-WorldBuilding" src="https://github.com/user-attachments/assets/4841f684-7e65-4cd2-b767-ce19b643b2ca" />
 
 <br />
@@ -56,7 +54,6 @@ Main Dashboard
 API Settings
 <br>
 <br/>
-
 <img width="1910" height="916" alt="NG-APISettings" src="https://github.com/user-attachments/assets/b2e1c777-ba9d-46a6-b994-4fab5bce10f5" />
 
 <br />
@@ -65,7 +62,6 @@ API Settings
 Narrative Section
 <br />
 <br />
-
 <img width="1918" height="909" alt="NG-Narrative" src="https://github.com/user-attachments/assets/113e797a-7d53-43e9-82f4-015dfb335059" />
 
 <br />
@@ -74,7 +70,6 @@ Narrative Section
 Outline
 <br />
 <br />
-
 <img width="1920" height="909" alt="NG-outline" src="https://github.com/user-attachments/assets/2c542c1c-0881-4b7f-bffd-a89ed76ea5e9" />
 <br />
 <br />
@@ -89,7 +84,6 @@ Outline
 Scene Builder
 <br />
 <br />
-
 <img width="1916" height="913" alt="NG-Scene" src="https://github.com/user-attachments/assets/211eedc1-1059-435f-bdab-906320499f28" />
 
 <br />
@@ -98,7 +92,6 @@ Scene Builder
 Story Editor
 <br />
 <br />
-
 <img width="1915" height="918" alt="NG-Story Editor" src="https://github.com/user-attachments/assets/d00a4b05-fe9b-407e-8799-765efb06a1e4" />
 <br />
 <br />
@@ -113,7 +106,6 @@ Story Editor
 AI Assistant
 <br />
 <br />
-
 <img width="1897" height="922" alt="NG-AI Writing Assistant" src="https://github.com/user-attachments/assets/82bc1af4-652e-4519-bf36-c11fd5a89269" />
 
 <br />
@@ -122,7 +114,6 @@ AI Assistant
 Story Idea Generator
 <br />
 <br />
-
 <img width="1537" height="901" alt="NG-StoryGenerator-3" src="https://github.com/user-attachments/assets/031d2821-62ed-4c46-a3e6-8e7951426dfb" />
 <br />
 <br />
@@ -134,7 +125,6 @@ Story Idea Generator
 Prompt Templates 
 <br />
 <br />
-
 <img width="1895" height="921" alt="NG-PromptTemplates" src="https://github.com/user-attachments/assets/88d1fc1a-1996-429e-ad16-fad08a523846" />
 <br />
 <br />
@@ -146,7 +136,6 @@ Prompt Templates
 Book Cover Generator
 <br />
 <br />
-
 <img width="1906" height="921" alt="NG-photo_generator-1" src="https://github.com/user-attachments/assets/ddfd0056-58a7-438a-9f39-290f4e1e78de" />
 <br />
 <br />
@@ -161,7 +150,6 @@ Book Cover Generator
 Portfolio
 <br />
 <br />
-
 <img width="1915" height="895" alt="NG-portfolio-1" src="https://github.com/user-attachments/assets/f1e11fa0-d3e8-4606-b44f-f02951db043a" />
 <br />
 <br />
@@ -177,15 +165,14 @@ Portfolio
 Royalty Calculator
 <br />
 <br />
-
 <img width="1905" height="910" alt="NG-RoyaltyCalculator" src="https://github.com/user-attachments/assets/fc43845f-7b01-476a-b5d2-8b1727a9f135" />
 
 <br />
 <br />
+
 Blurb Generator
 <br />
 <br />
-
 <img width="1912" height="909" alt="NG-BlurbGenerator" src="https://github.com/user-attachments/assets/0008b4ef-857c-4b5d-b7c8-fb2150412e19" />
 
 <br />
@@ -194,17 +181,14 @@ Blurb Generator
 Style Analyzer
 <br />
 <br />
-
 <img width="1910" height="909" alt="NG-StyleAnalyzer" src="https://github.com/user-attachments/assets/1aff4360-3b70-4824-b19d-4e6eaccb7745" />
 
 <br />
 <br />
 
-Settings 
-<br />
-<br />
 
-Themes 
+
+<h2>Themes<h2/> 
 <br />
 <br />
 
