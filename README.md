@@ -124,9 +124,6 @@ Story Idea Generator
 <br />
 <br />
 <img width="1537" height="901" alt="NG-StoryGenerator-3" src="https://github.com/user-attachments/assets/031d2821-62ed-4c46-a3e6-8e7951426dfb" />
-<br />
-<br />
-<img width="1537" height="901" alt="NG-StoryGenerator-3" src="https://github.com/user-attachments/assets/f81e67fd-5c92-4008-984f-9a2370170571" />
 
 <br />
 <br />
