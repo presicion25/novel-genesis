@@ -21,7 +21,7 @@ I built this as a test project recently when I first starting dabbling in Claude
  <h2> Features </h2>
 
 Models to Choose from for AI assisted generation: 
-- Open AI (GPT-5.6 Sol, GPT-5. Terra, GPT-5.6 Luna) (API key required).
+- Open AI (GPT-5.6 Sol, GPT-5.6 Terra, GPT-5.6 Luna) (API key required).
 - Anthropic (Fable 5, Opus 4.8, Sonnet 5, Haiku 4.5 (API key required).
 - Google (Gemini 3.5 Flash, Gemini 3.1 Pro, Gemini 3.1 Flash-Lite
 - Elevenlabs voice generation (API key required).
